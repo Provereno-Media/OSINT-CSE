@@ -5,6 +5,8 @@ One day, our Methodology Section Editor [Pogoda](https://github.com/paulpogoda) 
 
 All these CSE's are manually tested and work well. If not, please, open an issue. Feel free to add PR if you created your own CSE or discovered useful CSE that is not in the list. 
 
+**Last Revisited and Updated: June, 2026**
+
  ## Table of content:
  - [General Search and basics](#general-search)
  - [Social Search (Global and Local)](#social-and-people-search)
