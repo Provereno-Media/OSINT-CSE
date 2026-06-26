@@ -19,11 +19,10 @@ All these CSE's are manually tested and work well. If not, please, open an issue
 ### General search
 - [Search Whisperer by Henk van Ess](https://searchwhisperer.ai/). AI-Powered Query Optimization: Learn how to use search operators and dorks 
 - **What the hell are these Search operators and Dorks?**
-  
--- [Google](https://github.com/Proviesec/google-dorks/tree/main)
--- [DuckDuckGo](https://duckduckgo.com/duckduckgo-help-pages/results/syntax)
--- [Bing](https://github.com/Provereno-Media/Bing-Search-Operators-Cheatsheet/tree/main)
--- [Big List by cipher387](https://github.com/cipher387/Advanced-search-operators-list)
+  - [Google](https://github.com/Proviesec/google-dorks/tree/main)
+  - [DuckDuckGo](https://duckduckgo.com/duckduckgo-help-pages/results/syntax)
+  - [Bing](https://github.com/Provereno-Media/Bing-Search-Operators-Cheatsheet/tree/main)
+  - [Big List by cipher387](https://github.com/cipher387/Advanced-search-operators-list)
 
 ### Social and People Search
 
