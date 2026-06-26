@@ -16,7 +16,7 @@ All these CSE's are manually tested and work well. If not, please, open an issue
  - [Webcam Search](#webcam)
  - [Pastebin](#pastebin)
 
-### General search
+### General Search
 - [Search Whisperer by Henk van Ess](https://searchwhisperer.ai/). AI-Powered Query Optimization: Learn how to use search operators and dorks 
 - **What the hell are these Search operators and Dorks?**
   - [Google](https://github.com/Proviesec/google-dorks/tree/main)
@@ -90,4 +90,5 @@ Search for fact-checks in Russian on trusted fact-checking sources (most of them
 - [Google Custom Search Engine for search 48 pastebin sites](https://github.com/cipher387/pastebinsearchengines)
 
 ## Other 
-See the [BIG LIST](https://start.me/p/EL84Km/cse-utopia) of CSE (some are outdated or broken)
+- See the [BIG LIST](https://start.me/p/EL84Km/cse-utopia) of CSE (some are outdated or broken)
+- [Brave Search Goggles by Pogoda](https://github.com/paulpogoda/Brave-Goggles)
