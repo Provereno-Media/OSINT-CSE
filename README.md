@@ -3,9 +3,9 @@
 
 One day, our Methodology Section Editor [Pogoda](https://github.com/paulpogoda) made a few CSEs for his own needs and understood that they could be useful to others. Then he added to his list some CSEs by [CyberYozh](https://cyberyozh.com/), [cipher387](https://github.com/cipher387/pastebinsearchengines), [OSINT ME](https://www.osintme.com/index.php/2020/09/28/using-the-google-custom-search-engine-for-osint/) and [cqcore](https://github.com/The-Osint-Toolbox/Custom-Search-Engines), and more, and more; see the list below. 
 
-All these CSE's are manually tested and work well. If not, please, open an issue. Feel free to add PR if you created your own CSE or discovered useful CSE that is not in the list. 
+All these CSE's are manually tested and work well. If not, please open an issue. Feel free to add a PR if you created your own CSE or discovered a useful CSE that is not in the list. 
 
-**Last Revisited and Updated: June, 2026**
+**Last Revisited and Updated: July, 2026**
 
  ## Table of content:
  - [General Search and basics](#general-search)
