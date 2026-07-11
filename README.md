@@ -5,7 +5,7 @@ One day, our Methodology Section Editor [Pogoda](https://github.com/paulpogoda) 
 
 All these CSE's are manually tested and work well. If not, please open an issue. Feel free to add a PR if you created your own CSE or discovered a useful CSE that is not in the list. 
 
-**Last Revisited and Updated: July, 2026**
+**Last Revisited and Updated: July 11, 2026**
 
  ## Table of content:
  - [General Search and basics](#general-search)
