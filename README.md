@@ -41,7 +41,7 @@ Extended Reddit Search
 - [Who posted what?](https://whopostedwhat.com) - Facebook Custom Engine by Henk van Ess. It was brilliant before mr. Zuckerberg enshitified graph search, but WPW is still useful for some tasks.
 - [Intel X Telegram Search](https://intelx.io/tools?tab=telegram)
 - [Xtea Telegram Search Engine](https://xtea.io/ts_en.html#gsc.tab=0)
-- Telegram Infrastructure Search(https://cse.google.com/cse?cx=f690c049351174009) by Pogoda — Search separate Live and Archived content
+- [Telegram Infrastructure Search](https://cse.google.com/cse?cx=f690c049351174009) by Pogoda — Search separate Live and Archived content
 - [Google Dork Based Name/Username/Phone Search](https://www.osintcanada.com/mobile-searches/mobile-search-tool)
   
 #### CSE for different Countries, Languages and SN
