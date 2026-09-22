@@ -14,7 +14,7 @@ One day, our Methodology Section Editor [Pogoda](https://github.com/paulpogoda) 
 
 All these CSEs are manually tested and work well. If one doesn't, please [open an issue](../../issues/new/choose). Feel free to open a PR if you created your own CSE or discovered a useful one that isn't in the list yet. See [Contributing](#-contributing) below.
 
-> 🗓️ **Last revisited and updated:** August 19, 2026
+> 🗓️ **Last revisited and updated:** Sept 22, 2026
 
 ## Table of Contents
 
