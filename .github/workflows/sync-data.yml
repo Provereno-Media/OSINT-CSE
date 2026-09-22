@@ -1,0 +1,33 @@
+name: Sync docs/data.json from README.md
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "README.md"
+      - "scripts/generate_data.py"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  sync-data:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Regenerate docs/data.json from README.md
+        run: python scripts/generate_data.py README.md docs/data.json
+
+      - name: Commit changes if any
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: sync docs/data.json from README.md [skip ci]"
+          file_pattern: docs/data.json
