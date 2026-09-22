@@ -1,0 +1,57 @@
+name: "\U0001F6A8 Broken CSE"
+description: Report a Custom Search Engine that no longer works as expected
+title: "[Broken CSE]: "
+labels: ["broken-link"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for reporting a broken CSE! Please check the [README](../../blob/main/README.md) for the exact entry before filling this in.
+  - type: input
+    id: cse-name
+    attributes:
+      label: CSE name
+      description: Exact name as it appears in README.md
+      placeholder: e.g. Social Search by Pogoda
+    validations:
+      required: true
+  - type: input
+    id: cse-link
+    attributes:
+      label: Link
+      description: The broken URL, copied from README.md
+      placeholder: https://cse.google.com/cse?cx=...
+    validations:
+      required: true
+  - type: input
+    id: section
+    attributes:
+      label: Section in README
+      description: e.g. Social and People Search > Global Search
+    validations:
+      required: false
+  - type: textarea
+    id: what-happens
+    attributes:
+      label: What happens when you open it?
+      description: Error message, blank results, redirect to Google homepage, "CSE not found", etc. Screenshots welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: queries-tried
+    attributes:
+      label: Sample queries you tried
+      description: List at least 2 queries you tested
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks performed
+      options:
+        - label: I tried the link in a new incognito/private browser window
+          required: true
+        - label: I tried at least 2 different search queries
+          required: true
+        - label: I checked there isn't already an open issue about this link
+          required: true

@@ -1,0 +1,59 @@
+name: "\u2728 Suggest a new CSE"
+description: Propose a new Custom Search Engine to add to the OSINT-CSE list
+title: "[New CSE]: "
+labels: ["new-cse"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting a CSE! Please test it yourself first — see [CONTRIBUTING.md](../../blob/main/CONTRIBUTING.md) for details. If you're comfortable editing Markdown, a pull request is even faster than an issue.
+  - type: input
+    id: cse-name
+    attributes:
+      label: CSE name
+      placeholder: e.g. Australia Job Search CSE
+    validations:
+      required: true
+  - type: input
+    id: cse-link
+    attributes:
+      label: Link
+      placeholder: https://cse.google.com/cse?cx=...
+    validations:
+      required: true
+  - type: dropdown
+    id: section
+    attributes:
+      label: Which section should it go in?
+      options:
+        - General Search and Basics
+        - Social and People Search — Global Search
+        - Social and People Search — Country/Language/SN specific
+        - Social and People Search — Job Search Sites
+        - Most Wanted and Sanctioned
+        - Documents and Statistics — Files by Type
+        - Documents and Statistics — Docs and Stats
+        - Wikileaks
+        - Fact-Checks
+        - Files and Clouds
+        - Webcam
+        - Pastebin
+        - Other / propose a new section
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What does it search? Any language/region/interface notes?
+    validations:
+      required: true
+  - type: checkboxes
+    id: checks
+    attributes:
+      label: Checks performed
+      options:
+        - label: I tested this CSE manually with at least 2–3 sample queries
+          required: true
+        - label: I searched README.md and confirmed this isn't already listed
+          required: true
