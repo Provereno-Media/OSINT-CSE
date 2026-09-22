@@ -8,8 +8,6 @@
   <img alt="Last commit" src="https://img.shields.io/github/last-commit/Provereno-Media/OSINT-CSE?style=flat-square">
 </p>
 
-<img width="1431" alt="OSINT-CSE preview" src="https://github.com/user-attachments/assets/90725538-f597-40da-a3b2-09e92dfe0a8a" />
-
 One day, our Methodology Section Editor [Pogoda](https://github.com/paulpogoda) made a few CSEs for his own needs and understood that they could be useful to others. Then he added to the list some CSEs by [CyberYozh](https://cyberyozh.com/), [cipher387](https://github.com/cipher387/pastebinsearchengines), [OSINT ME](https://www.osintme.com/index.php/2020/09/28/using-the-google-custom-search-engine-for-osint/) and [cqcore](https://github.com/The-Osint-Toolbox/Custom-Search-Engines), and more, and more — see the list below.
 
 All these CSEs are manually tested and work well. If one doesn't, please [open an issue](../../issues/new/choose). Feel free to open a PR if you created your own CSE or discovered a useful one that isn't in the list yet. See [Contributing](#-contributing) below.
