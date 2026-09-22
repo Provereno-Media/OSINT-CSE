@@ -8,231 +8,231 @@
   },
   {
     "section": "General Search and Basics",
-    "name": "Google Dorks Cheatsheet",
+    "name": "Google: Proviesec/google-dorks",
     "link": "https://github.com/Proviesec/google-dorks/tree/main",
-    "desc": "Search operators cheatsheet for Google",
+    "desc": "",
     "region": ""
   },
   {
     "section": "General Search and Basics",
-    "name": "DuckDuckGo Syntax Help",
+    "name": "DuckDuckGo: Official syntax help",
     "link": "https://duckduckgo.com/duckduckgo-help-pages/results/syntax",
-    "desc": "Official DuckDuckGo search syntax guide",
+    "desc": "",
     "region": ""
   },
   {
     "section": "General Search and Basics",
-    "name": "Bing Search Operators Cheatsheet",
+    "name": "Bing: Provereno-Media/Bing-Search-Operators-Cheatsheet",
     "link": "https://github.com/Provereno-Media/Bing-Search-Operators-Cheatsheet/tree/main",
-    "desc": "Search operators cheatsheet for Bing",
+    "desc": "",
     "region": ""
   },
   {
     "section": "General Search and Basics",
-    "name": "Big List of Search Operators by cipher387",
+    "name": "All engines: Big List by cipher387",
     "link": "https://github.com/cipher387/Advanced-search-operators-list",
-    "desc": "Advanced search operators across many engines",
+    "desc": "",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Name Search CSE",
     "link": "https://cse.google.com/cse?cx=partner-pub-7233843800519946:6667570044&ie=UTF-8&q=",
     "desc": "Search open address books (name, surname, ZIP)",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Instagram and Threads Search by Pogoda/Provereno",
     "link": "https://cse.google.com/cse?cx=87038a55364fd4bfd",
     "desc": "Separate tab for Reels",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Facebook Search CSE by Pogoda/Provereno",
     "link": "https://provereno.media/facebook-search-ot-provereno/#gsc.tab=0",
-    "desc": "Alternative to Facebook post search removed in Sept 2025. Alt link: https://cse.google.com/cse?cx=b7a0458303c464dfd",
+    "desc": "In September 2025, Facebook stopped allowing users to search for posts separately — this CSE can be used as an alternative (also: alternative link: https://cse.google.com/cse?cx=b7a0458303c464dfd)",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Social Search by Pogoda",
     "link": "https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0",
-    "desc": "FB, Instagram, OK, VK, Telegram, TikTok, YandexDzen, X, LiveJournal, YouTube, 2ch, Threads, Bsky, Substack, Web Archive. Interface: Russian",
-    "region": "🇷🇺"
+    "desc": "Search for names, nicknames or any text on Facebook, Instagram, OK, VK, Telegram, TikTok, YandexDzen, X (Twitter), LiveJournal, YouTube, 2ch, Threads, Bsky, Substack and Web Archive. Language: any, interface: 🇷🇺 Russian",
+    "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Vortimo Social Search",
     "link": "https://cse.google.com/cse?cx=009983555355237802955:_kirhgouogi#gsc.tab=0",
-    "desc": "Names, nicknames or text across many SNs and pastebin sites",
+    "desc": "Search for names, nicknames or any text across many social networks and pastebin sites",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "SearchPOF",
     "link": "https://searchpof.com",
-    "desc": "Facebook, Twitter, Instagram, YouTube, Pinterest, Snapchat",
+    "desc": "Search Facebook, Twitter, Instagram, YouTube, Pinterest, Snapchat",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Reddit CSE",
     "link": "https://cse.google.com/cse?cx=007749065626525752968:qh5bqebwi30",
     "desc": "Extended Reddit search",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "TikTok CSE",
     "link": "https://cse.google.com/cse?cx=011444696387487602669%3Aaqf7d9w73om#gsc.tab=0",
     "desc": "TikTok-focused search",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Who Posted What?",
     "link": "https://whopostedwhat.com",
-    "desc": "Facebook custom engine by Henk van Ess, still useful for some tasks",
+    "desc": "Facebook custom engine by Henk van Ess. It was brilliant before Mr. Zuckerberg enshittified graph search, but WPW is still useful for some tasks",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Intel X Telegram Search",
     "link": "https://intelx.io/tools?tab=telegram",
     "desc": "Telegram-focused search",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Xtea Telegram Search Engine",
     "link": "https://xtea.io/ts_en.html#gsc.tab=0",
     "desc": "Telegram-focused search",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Telegram Infrastructure Search by Pogoda",
     "link": "https://cse.google.com/cse?cx=f690c049351174009",
     "desc": "Search separate Live and Archived content",
     "region": ""
   },
   {
-    "section": "Social — Global Search",
+    "section": "Social and People Search — Global Search",
     "name": "Google Dork Based Name/Username/Phone Search",
     "link": "https://www.osintcanada.com/mobile-searches/mobile-search-tool",
     "desc": "Dork-driven identity search",
     "region": ""
   },
   {
-    "section": "Social — Countries & Languages",
+    "section": "Social and People Search — Different Countries, Languages and Social Networks",
     "name": "Iran Social Media Search CSE by Pogoda",
     "link": "https://cse.google.com/cse?cx=a69e29b24a5804272",
     "desc": "Social search tuned for Iranian platforms",
     "region": "🇮🇷"
   },
   {
-    "section": "Social — Countries & Languages",
+    "section": "Social and People Search — Different Countries, Languages and Social Networks",
     "name": "Social Accounts Search in Russian by Pogoda",
     "link": "https://cse.google.com/cse?cx=029ffbc44aa3946cb#gsc.tab=0",
     "desc": "Works well for countries with Russian-speaking communities",
     "region": "🇷🇺"
   },
   {
-    "section": "Social — Countries & Languages",
+    "section": "Social and People Search — Different Countries, Languages and Social Networks",
     "name": "Whitepages Taiwan",
     "link": "https://whitepages.tw",
-    "desc": "People search, Yellow Pages, FB, Instagram, LinkedIn",
+    "desc": "Google CSE-based search for people, Yellow Pages, FB, Instagram, LinkedIn, etc.",
     "region": "🇹🇼"
   },
   {
-    "section": "Social — Countries & Languages",
+    "section": "Social and People Search — Different Countries, Languages and Social Networks",
     "name": "Search Canadian Classifieds",
     "link": "https://www.osintcanada.com/desktop-tools/classified-property-search",
     "desc": "Canadian classifieds search",
     "region": "🇨🇦"
   },
   {
-    "section": "Social — Countries & Languages",
+    "section": "Social and People Search — Different Countries, Languages and Social Networks",
     "name": "LinkedIn UK CSE",
     "link": "https://cse.google.com/cse?cx=006639709984028990467:nl9wxsfepb0#gsc.tab=0",
-    "desc": "UK-based LinkedIn accounts",
+    "desc": "Search for UK accounts on LinkedIn",
     "region": "🇬🇧"
   },
   {
-    "section": "Social — Job Search",
+    "section": "Social and People Search — Job Search Sites",
     "name": "Australia Job Search CSE by Pogoda",
     "link": "https://cse.google.com/cse?cx=b176f3be81f18412b",
     "desc": "Job listings search",
     "region": "🇦🇺"
   },
   {
-    "section": "Social — Job Search",
+    "section": "Social and People Search — Job Search Sites",
     "name": "HeadHunter Search by Pogoda",
     "link": "https://cse.google.com/cse?cx=871c0071ee7ea4c00#gsc.tab=0",
-    "desc": "HeadHunter platform in Russia, Belarus, Kazakhstan, Uzbekistan",
+    "desc": "Search on the HeadHunter platform in Russia, Belarus, Kazakhstan and Uzbekistan",
     "region": "🇷🇺🇧🇾🇰🇿🇺🇿"
   },
   {
     "section": "Most Wanted and Sanctioned",
     "name": "FBI Most Wanted",
     "link": "https://cse.google.com/cse?cx=1ee952e6584aa91f9",
-    "desc": "Fugitives, criminals, terrorists wanted by the FBI",
+    "desc": "Search for fugitives, criminals, terrorists, etc. wanted by the FBI",
     "region": ""
   },
   {
     "section": "Most Wanted and Sanctioned",
     "name": "OFAC Sanctioned",
     "link": "https://cse.google.com/cse?cx=e96467889fb82b9b0",
-    "desc": "Persons and organisations under US sanctions",
+    "desc": "Search for persons and organisations under US sanctions — from terror groups to rogue states",
     "region": ""
   },
   {
-    "section": "Documents — Files by Type",
+    "section": "Documents and Statistics — Files by Type",
     "name": "Doc Search",
     "link": "https://cse.google.com/cse?cx=e6756edc507bcfa91",
-    "desc": ".pdf, .doc, .docx, .txt, .xml",
+    "desc": "Search for .pdf, .doc, .docx, .txt, .xml",
     "region": ""
   },
   {
-    "section": "Documents — Files by Type",
+    "section": "Documents and Statistics — Files by Type",
     "name": "Doc Search 2",
     "link": "https://cse.google.com/cse?cx=009462381166450434430:nudphlkt3p4",
-    "desc": "Word, PowerPoint, Text, Excel, PDF",
+    "desc": "Search for Word, PowerPoint, Text, Excel, PDF",
     "region": ""
   },
   {
-    "section": "Documents — Files by Type",
+    "section": "Documents and Statistics — Files by Type",
     "name": "Doc Search 3",
     "link": "http://cse.google.com/cse/publicurl?cx=001788166376325824197:ff1tsbv1c6m",
     "desc": "Zoominfo and document search",
     "region": ""
   },
   {
-    "section": "Documents — Docs and Stats",
+    "section": "Documents and Statistics — Docs and Stats",
     "name": "Russian Court Documents Search",
     "link": "https://cse.google.com/cse?cx=174a936942534442e#gsc.tab=0",
-    "desc": "No region filters",
+    "desc": "No filters by region — you will need help from someone who understands Russia's administrative division",
     "region": "🇷🇺"
   },
   {
-    "section": "Documents — Docs and Stats",
+    "section": "Documents and Statistics — Docs and Stats",
     "name": "Russian Court Documents Search by Pogoda",
     "link": "https://cse.google.com/cse?cx=975065745f9cc405d#gsc.tab=0",
-    "desc": "With region filters added",
+    "desc": "Same, but with region filters added",
     "region": "🇷🇺"
   },
   {
-    "section": "Documents — Docs and Stats",
+    "section": "Documents and Statistics — Docs and Stats",
     "name": "Central Asia and EEU Statistics CSE by Pogoda",
     "link": "https://cse.google.com/cse?cx=a72e762da6ab1440a#gsc.tab=0",
-    "desc": "Official stats for Kazakhstan, Kyrgyzstan, Tajikistan, Turkmenistan, Uzbekistan, EEU",
+    "desc": "Official statistics for Kazakhstan, Kyrgyz Republic, Tajikistan, Turkmenistan, Uzbekistan and the Eurasian Economic Union. Language: any, interface: 🇷🇺 Russian",
     "region": "🇰🇿🇰🇬🇹🇯🇹🇲🇺🇿"
   },
   {
-    "section": "Documents — Docs and Stats",
-    "name": "Statistics for Estonia, Latvia, and Lithuania",
+    "section": "Documents and Statistics — Docs and Stats",
+    "name": "Search Statistics for Estonia, Latvia, and Lithuania",
     "link": "https://cse.google.com/cse?cx=a6f66d6fd28f54534",
     "desc": "Baltic states official statistics",
     "region": "🇪🇪🇱🇻🇱🇹"
@@ -248,14 +248,14 @@
     "section": "Fact-Checks",
     "name": "Fact-Checks IFCN RL",
     "link": "https://cse.google.com/cse?cx=63511be8f42c947cd#gsc.tab=0",
-    "desc": "Fact-checks in Russian on trusted sources, mostly IFCN signatories",
-    "region": "🇷🇺"
+    "desc": "Search for fact-checks in Russian on trusted fact-checking sources (most of them are IFCN signatories). Language/interface: 🇷🇺 Russian",
+    "region": ""
   },
   {
     "section": "Fact-Checks",
-    "name": "Perplexity Space for Fact-Checking by Pogoda",
+    "name": "Perplexity Space for Fact-Checking and Research by Pogoda",
     "link": "https://www.perplexity.ai/collections/fact-checker-test-J5GIgeg6QB.Dt7HpYNIjCA",
-    "desc": "Not a CSE, curated Perplexity workspace for research",
+    "desc": "Not a CSE, but useful — keep in mind it can still hallucinate. Feedback on the system prompt is welcome",
     "region": ""
   },
   {
@@ -269,49 +269,49 @@
     "section": "Files and Clouds",
     "name": "Amazon Cloud CSE",
     "link": "https://cse.google.com/cse?cx=005797772976587943970:g-6ohngosio#gsc.tab=0",
-    "desc": "Amazon-hosted cloud storage",
+    "desc": "Search Amazon-hosted cloud storage",
     "region": ""
   },
   {
     "section": "Files and Clouds",
     "name": "OSINT Me — Google Drive CSE",
     "link": "https://cse.google.com/cse?cx=c64ba311eb8c31896",
-    "desc": "Publicly indexed Google Drive files",
+    "desc": "Search publicly indexed Google Drive files",
     "region": ""
   },
   {
     "section": "Files and Clouds",
     "name": "Slideshare Search CSE",
     "link": "https://cse.google.com/cse?cx=465eeeb114c7f523f",
-    "desc": "Slideshare presentations",
+    "desc": "Search Slideshare presentations",
     "region": ""
   },
   {
     "section": "Webcam",
     "name": "Webcam Search CSE",
     "link": "https://cse.google.com/cse?cx=013991603413798772546:gjcdtyiytey#gsc.tab=0",
-    "desc": "Public webcam feeds",
+    "desc": "Search public webcam feeds",
     "region": ""
   },
   {
     "section": "Pastebin",
-    "name": "Pastebin CSE (48 sites)",
+    "name": "Google Custom Search Engine for 48 pastebin sites",
     "link": "https://github.com/cipher387/pastebinsearchengines",
-    "desc": "Covers 48 pastebin-style sites",
+    "desc": "Custom search engine covering 48 pastebin-style sites",
     "region": ""
   },
   {
     "section": "Other",
-    "name": "Big List of CSE",
+    "name": "BIG LIST",
     "link": "https://start.me/p/EL84Km/cse-utopia",
-    "desc": "Much larger, community-maintained list (some entries outdated/broken)",
+    "desc": "See the of CSE (some are outdated or broken)",
     "region": ""
   },
   {
     "section": "Other",
     "name": "Brave Search Goggles by Pogoda",
     "link": "https://github.com/paulpogoda/Brave-Goggles",
-    "desc": "Brave Goggles for OSINT",
+    "desc": "@GitHub",
     "region": ""
   }
 ]
