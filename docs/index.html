@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>OSINT-CSE — Custom Search Engines for OSINT</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+  <h1>🔎 OSINT Custom Search Engines</h1>
+  <p>A searchable, filterable index of Google Custom Search Engines for OSINT investigations. Maintained by <a href="https://t.me/pavelbannikov" target="_blank" rel="noopener">Pavel Bannikov / Pogoda</a>. Source & contributions: <a href="https://github.com/Provereno-Media/OSINT-CSE" target="_blank" rel="noopener">GitHub repo</a>.</p>
+  <div class="controls">
+    <input id="search" type="search" placeholder="Search by name, description, or region…" autocomplete="off">
+    <select id="category">
+      <option value="">All categories</option>
+    </select>
+  </div>
+  <p class="count" id="count"></p>
+</header>
+
+<main id="results"></main>
+
+<footer>
+  <p>Found a broken link or want to add a CSE? <a href="https://github.com/Provereno-Media/OSINT-CSE/issues/new/choose" target="_blank" rel="noopener">Open an issue</a> or see <a href="https://github.com/Provereno-Media/OSINT-CSE/blob/main/CONTRIBUTING.md" target="_blank" rel="noopener">CONTRIBUTING.md</a>.</p>
+</footer>
+
+<script src="https://cdn.jsdelivr.net/npm/fuse.js@7.0.0/dist/fuse.min.js"></script>
+<script src="script.js"></script>
+</body>
+</html>
