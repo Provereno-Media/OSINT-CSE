@@ -171,6 +171,7 @@ All these CSEs are manually tested and work well. If one doesn't, please [open a
 
 - See the [BIG LIST](https://start.me/p/EL84Km/cse-utopia) of CSE (some are outdated or broken)
 - [Brave Search Goggles by Pogoda](https://github.com/paulpogoda/Brave-Goggles) @GitHub
+- [GitHub Search](https://cse.google.com/cse?cx=017261104271573007538:fqn_jyftcdq#gsc.tab=0)
 
 ---
 
